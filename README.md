@@ -23,5 +23,5 @@ You should see a "Hello World" in `h1` that was rendered by the following code
 
 # Materials
 
-[ClojureScript with Webpack](https://clojurescript.org/guides/webpack)
-[NPM Modules](https://figwheel.org/docs/npm.html)
+- [ClojureScript with Webpack](https://clojurescript.org/guides/webpack)
+- [NPM Modules](https://figwheel.org/docs/npm.html)
